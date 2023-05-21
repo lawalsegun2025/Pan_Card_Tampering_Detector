@@ -1,7 +1,7 @@
 # Pan Card Tempering Detector
 
 ## Table of Content
-*[Overview](#overview)
+* [Overview](#overview)
 
 
 ## Overview
