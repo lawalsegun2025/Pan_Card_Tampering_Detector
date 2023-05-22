@@ -3,11 +3,11 @@
 ## Table of Content
 * [Overview](#overview)
 * [Motivation](#motivation)
-* [Problem Solving steps](#Problem Solving steps)
+* [Problem Solving steps](#Problem-Solving-steps)
 
 
 ## Overview
-In this project, we detect tampering of Pan card using computer vision.<br>
+In this project, we detect tampering of Pan card using computer vision.<br/><br/>
 <img src="sample_data/842391.png">
 
 ## Motivation
