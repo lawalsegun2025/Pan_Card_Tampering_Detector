@@ -8,6 +8,7 @@
 
 ## Overview
 In this project, we detect tampering of Pan card using computer vision.
+<img scr="sample_data/842391.png">
 
 ## Motivation
 This project will help different organisations in detecting whether the ID that is the pan card provided to them by their employees or customers is original or fake.
